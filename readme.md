@@ -1,4 +1,4 @@
-# Finz Assignment — Bank Transaction Normalization + MongoDB Upserts + Gemini Q&A (Checking Only)
+# financial-insights-api — Bank Transaction Normalization + MongoDB Upserts + Gemini Q&A (Checking Only)
 
 This project implements a production-style backend workflow to:
 
